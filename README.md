@@ -1,4 +1,4 @@
-# linear_regression_training_model_based_on_sequence_characteristics
+# linear-regression-model-sequence
 I coded this linear regression based training model based on the sequence features across the sequences. It has two arguments, just train the model or train and predict the model. You can give a short motif file, or any sequences and corresponding expression and it will estimate the linear regression using the genomic based characteristics and scipy.
 
 ```python 
