@@ -17,7 +17,7 @@ expressionLinear("/Users/gauravsablok/Desktop/CodeCheck/fasta_sample_datasets/sa
  9     0.397802
  10    0.397736]
  ````                                                                               
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
